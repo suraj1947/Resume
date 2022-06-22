@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: resume
+netty:
+  default:
+    allocator:
+      max-order: 3
